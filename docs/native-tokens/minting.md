@@ -434,12 +434,12 @@ funds="Amout of lovelace"
 Again - here is an example of how it would look if we use our fictional example:
 
 ```bash
-$ fee="0"
-$ receiver="addr_test1qp0al5v8mvwv9mzn77ls0tev3t838yp9ghvgxf9t5qa4sqlua2ywcygl3d356c34576elq5mcacg88gaevceyc5tulwsmk7s8v"
-$ receiver_output="10000000"
-$ txhash="d82e82776b3588c1a2c75245a20a9703f971145d1ca9fba4ad11f50803a43190"
-$ txix="0"
-$ funds="999824071"
+fee="0"
+receiver="addr_test1qp0al5v8mvwv9mzn77ls0tev3t838yp9ghvgxf9t5qa4sqlua2ywcygl3d356c34576elq5mcacg88gaevceyc5tulwsmk7s8v"
+receiver_output="10000000"
+txhash="d82e82776b3588c1a2c75245a20a9703f971145d1ca9fba4ad11f50803a43190"
+txix="0"
+funds="999824071"
 ```
 
 You should still have access to the other variables from the minting process.
